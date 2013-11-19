@@ -1,0 +1,44 @@
+<div class="container span11" id="add_content">
+    <form class="well form-horizontal" id="new_friend">
+        <fieldset>
+            <div class="control-group">
+                <label class="control-label"> <%= firstName %>: </label>
+                <div class="controls">
+                    <input type="text" class="input-xlarge" id="new_firstname" placeholder="Type your friends' first name">
+                    <span class="help-inline"></span>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label"> <%= lastName %>: </label>
+                <div class="controls">
+                    <input type="text" class="input-xlarge" id="new_lastname" placeholder="Type your friends' last name">
+                    <span class="help-inline"></span>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label"> Latitude: </label>
+                <div class="controls">
+                    <input type="text" class="input-xlarge" id="new_lat" placeholder="Insert latitude in yy.yy format">
+                    <span class="help-inline"></span>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label"> Longitude: </label>
+                <div class="controls">
+                    <input type="text" class="input-xlarge" id="new_lng" placeholder="Insert longitude in xx.xx format">
+                    <span class="help-inline"></span>
+                </div>
+            </div>
+            <div class="control-group">
+                <div class="controls">
+                    <a class="btn btn-primary" id="create_friend"> <%= createButton %> </a>
+                </div>
+            </div>
+        </fieldset>
+    </form>  
+</div>
+
+<div class="row status-bar span11" id="alert_span">
+    <div class="alert fade in" id="alert_bar">
+    </div>
+</div>

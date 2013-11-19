@@ -1,0 +1,49 @@
+html { 
+    height: 100% 
+}
+body { 
+    margin:0;
+    padding-top:0;
+}
+#map { 
+    height: 75%; 
+    width: 62%; 
+    margin-left: 1%; 
+    float:left; 
+}
+#home_content {
+    width: 25%; 
+    float: left; 
+    margin-left: 5%; 
+    margin-right: 0%;
+}
+#home_well{
+    margin-bottom: 4%;
+}
+#new_friend {
+    padding-bottom: 0%;
+}
+#friend_listed {
+    font-size: large; 
+    margin-bottom: 1%;
+}
+#friend_checkbox {
+    margin-right: 2%;
+}
+#search_alert {
+    display: none; 
+    margin-top:0%
+}
+#search_btn {
+    margin-top: 7%;
+    text-align: center;
+}
+#alert_span {
+    margin-left: 5%;
+}
+#alert_bar{
+    display: none;
+}
+#add_content{
+    margin-left: 5%;
+}

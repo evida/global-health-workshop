@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://widgets.tice.ipn.pt/unique_id" version="1.0.0">
+   <name>Global Health Demo App</name>
+   <description xml:lang="en">Check out your progress.</description>
+   <description xml:lang="pt">Acompanhe a sua evolução.</description>
+   <content src="index.html" />
+   <author>Diogo Lucas, Miguel Oliveira, Nuno Rebelo</author>
+   <icon src="styles/images/getfit.jpg" />
+</widget>
