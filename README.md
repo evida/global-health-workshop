@@ -1,4 +1,4 @@
-# Workshop - eVida platform - 20 November 2013
+# Workshop - eVida platform
 
 ## Introduction
 
