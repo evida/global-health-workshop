@@ -10,7 +10,7 @@ At the bottom of this document, you can find a list of important resources that 
 
 Please feel free to ask any question through the workshop, or later by writing us to ajuda@evida.pt.
 
-## Exercises
+## Tutorial
 
 ### 1. Create a new account on the eVida platform
 
